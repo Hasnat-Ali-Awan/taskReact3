@@ -134,7 +134,7 @@ Through this project, I learned how to:
 
 ## 👨‍💻 Author
 
-**Hasnat Ali Awan**
+### Hasnat Ali Awan
 
 BS Computer Science Student
 KICSIT – Institute of Space Technology (IST)
